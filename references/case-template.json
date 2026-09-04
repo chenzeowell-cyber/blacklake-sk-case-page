@@ -1,0 +1,21 @@
+{
+  "client_name": "客户公司名称",
+  "headline": "客户名称主要产品",
+  "subtitle_clauses": ["数据透明", "减少逾期", "降低成本"],
+  "profile": "请使用 60–100 字介绍客户成立时间、主要产品、市场和业务特点。",
+  "pains": [
+    {"title": "痛点标题一", "body": "写清业务现象、人员动作和带来的管理影响。"},
+    {"title": "痛点标题二", "body": "写清业务现象、人员动作和带来的管理影响。"},
+    {"title": "痛点标题三", "body": "写清业务现象、人员动作和带来的管理影响。"}
+  ],
+  "values": [
+    {"title": "价值标题一", "body": "先写小工单的真实功能动作，再写带来的业务价值。", "image": {"path": "media/value-01.png", "ai_generated": false}},
+    {"title": "价值标题二", "body": "先写小工单的真实功能动作，再写带来的业务价值。", "image": {"path": "media/value-02.png", "ai_generated": false}},
+    {"title": "价值标题三", "body": "先写小工单的真实功能动作，再写带来的业务价值。", "image": {"path": "media/value-03.png", "ai_generated": false}}
+  ],
+  "media": {
+    "scene_image": {"path": "media/scene.jpg", "ai_generated": false},
+    "result_image": {"path": "media/result.jpg", "ai_generated": false}
+  },
+  "sources": []
+}
